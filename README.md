@@ -1,10 +1,11 @@
 # Machine Learning for Portfolio Weights Optimization
 
-L’intelligenza artificiale potrà rivoluzionare il modo in cui investiamo? 
-La mia tesi espone la possibilità dell’utilizzo in maniera efficace di algoritmi di machine learning per affrontare una delle sfide più complesse affrontate dagli investitori: l’ottimizzazione di un portafoglio finanziario.
+Will artificial intelligence revolutionize the way we invest? 
 
-La Modern Portfolio Theory ha fornito le basi per affrontare il tema del bilanciamento di rischio e rendimento di un portafoglio, necessario per ottenere performance elevate. 
-L’avvento dei big data e i nuovi progressi nel campo dell’intelligenza artificiale introducono inoltre nuove opportunità per trasformare radicalmente le metodologie di allocazione degli asset all’interno di un portafoglio di investimenti.  Le operazioni di risk management e di gestione del portafoglio, prima effettuate da persone umane, vengono progressivamente affidate ad algoritmi automatici.
+My thesis exposes the possibility of the effective use of machine learning algorithms to address one of the most complex challenges faced by investors: optimizing a financial portfolio.
 
-Nel mio studio ho voluto approfondire l’implementazione di algoritmi di machine learning per l’ottimizzazione dei pesi da attribuire agli strumenti finanziari che costituiscono un portafoglio. 
-Per valutare i risultati ottenuti, ho confrontato le performance dei portafogli costruiti con tecniche di machine learning con le performance di un portafoglio equal-weighted formato dai medesimi strumenti finanziari.
+Modern Portfolio Theory provided the foundation for addressing the issue of balancing risk and return in a portfolio, which is necessary to achieve high performance. 
+
+The advent of big data and new advances in artificial intelligence also introduce new opportunities to radically transform asset allocation methodologies within an investment portfolio. Risk management and portfolio management operations, previously performed by humans, are gradually being entrusted to automated algorithms.
+
+In my study, I wanted to investigate the implementation of machine learning algorithms for optimizing the weights to be assigned to the financial instruments that make up a portfolio. To evaluate the results obtained, I compared the performance of portfolios constructed using machine learning techniques with the performance of an equal-weighted portfolio consisting of the same financial instruments.
